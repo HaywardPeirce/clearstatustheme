@@ -9,11 +9,11 @@ fullCSSDistFile: "css/dist/styles.css"
 postCSSConfigFolder: "themes/clearstatustheme"
 
 # Colors
-bodyBackground: "bg-grey-lighter"
+bodyBackground: "bg-grey-darker"
 bodyColor: "text-grey-dark"
 visibleBordersColor: "border-grey-dark"
 bordersColor: "border-transparent"
-headerBackground: "bg-white"
+headerBackground: "bg-grey-darkest"
 headerColor: "text-grey-darkest"
 footerBackground: "bg-white"
 footerColor: "text-grey-darkest"
